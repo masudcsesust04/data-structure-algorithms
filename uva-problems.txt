@@ -1,117 +1,121 @@
-10370 - Above Average
-10783 - Odd Sum
-11172 - Relational Operator
-100   The 3n + 1 problem   1
+10370 	Above Average
+10783 	Odd Sum
+11172 	Relational Operator
+100   	The 3n + 1 problem 
+113 	Power of Cryptography
+272 	TEX Quotes
+458 	The Decoder
+591 	Box of Bricks
+10055 	Hashmat the Brave Warrior
+10071 	Back to High School Physics
 
+10082 	WERTYU
+236   	VTAS - Vessel Traffic Advisory Service
+863   	Process Scheduling  
+896   	Board Game 
+10781   Global Positioning System
+10845   The crusades
+11263   Nested Rectangles
+961   	Ambiguous or Incomp Inductive Def
+10059   The Hazard of CSE Department!
+10757   Interpreting SQL
 
-113 - Power of Cryptography
-272 - TEX Quotes
-458 - The Decoder
-591 - Box of Bricks
-10055 - Hashmat the Brave Warrior
-10071 - Back to High School Physics
-10082 - WERTYU
-236   VTAS - Vessel Traffic Advisory Service   1
-863   Process Scheduling   1
-896   Board Game   1
-10781   Global Positioning System   1
-10845   The crusades   1
-11263   Nested Rectangles   1
-961   Ambiguous or Incomp Inductive Def   2
-10059   The Hazard of CSE Department!   2
-10757   Interpreting SQL   2
-10966   3KP-BASH Project   2
-10071   Back to High School Physics   3
-10055   Hashmat the Brave Warrior   3
-272   TEX Quotes   3
-10971   Building Construction   3
-11213   Flipull   3
-11248   Frequency Hopping   3
-458   The Decoder   4
-136   Ugly Numbers   4
-10038   Jolly Jumpers   4
-10035   Primary Arithmetic   4
-10018   Reverse and Add   4
+10966   3KP-BASH Project
+10071   Back to High School Physics 
+10055   Hashmat the Brave Warrior 
+272   	TEX Quotes
+10971   Building Construction 
+11213   Flipull   
+11248   Frequency Hopping
+458   	The Decoder  
+136   	Ugly Numbers  
+10038   Jolly Jumpers  
 
-108   Maximum Sum   4
-693   Digital Racing Circuit   4
-977   Old West Rumours   4
-10657   Prince Frog II   4
-10974   The Ridiculous Game   4
-11211   Digital Logic   4
-113   Power of Cryptography   5
-494   Kindergarten Counting Game   5
-299   Train Swapping   5
-10082   WERTYU   5
-101   The Blocks Problem   5
-591   Box of Bricks   5
-10008   What's Cryptanalysis?   5
-10300   Ecological Premium   5
-219   Department of Redundancy Department   5
-951   The Pieces of the Puzzle   5
-10630   Millennium Ceremony   5
-11143   Subtitles   5
-575   Skew Binary   6
-369   Combinations   6
-151   Power Crisis   6
-382   Perfection   6
-10370   Above Average   6
+10035   Primary Arithmetic  
+10018   Reverse and Add   
+108   	Maximum Sum   
+693   	Digital Racing Circuit   
+977   	Old West Rumours   
+10657   Prince Frog II   
+10974   The Ridiculous Game   
+11211   Digital Logic   
+113   	Power of Cryptography   
+494   	Kindergarten Counting Game   
 
-160   Factors and Factorials   6
-10189   Minesweeper   6
-579   ClockHands   6
-264   Count on Cantor   6
-424   Integer Inquiry   6
-499   What's The Frequency, Kenneth?   6
-10110   Light, More Light   6
-541   Error Correction   6
-10840   Multi-stage Compressor   6
-11145   AvreniM   6
-11154   An Octal World   6
-11199   Equations in Disguise   6
-543   Goldbach's Conjecture   7
-10004   Bicoloring   7
-10107   What is the Median?   7
-374   Big Mod   7
-686   Goldbach's Conjecture (II)   7
-105   The Skyline Problem   7
-495   Fibonacci Freeze   7
-483   Word Scramble   7
+299   	Train Swapping   
+10082   WERTYU   
+101   	The Blocks Problem   
+591   	Box of Bricks   
+10008   What's Cryptanalysis?   
+10300   Ecological Premium   
+219   	Department of Redundancy Department   
+951   	The Pieces of the Puzzle   
+10630   Millennium Ceremony   
+11143   Subtitles   
+
+575   	Skew Binary   
+369   	Combinations   
+151   	Power Crisis   
+382   	Perfection   
+10370   Above Average   
+160   	Factors and Factorials   
+10189   Minesweeper   
+579   	ClockHands   
+264   	Count on Cantor   
+424   	Integer Inquiry   
+
+499   	What's The Frequency, Kenneth?   
+10110   Light, More Light   
+541   	Error Correction   
+10840   Multi-stage Compressor   
+11145   AvreniM   
+11154   An Octal World   
+11199   Equations in Disguise   
+543   	Goldbach's Conjecture   
+10004   Bicoloring   
+10107   What is the Median?   
+
+374   	Big Mod   
+686   	Goldbach's Conjecture (II)   
+105   	The Skyline Problem   
+495   	Fibonacci Freeze   
+483   	Word Scramble   
 10041   Vito's Family   
-
 10019   Funny Encryption Method   
-256   Quirksome Squares   
-138   Street Numbers   
+256   	Quirksome Squares   
+138   	Street Numbers   
 10079   Pizza Cutting   
-530   Binomial Showdown   
+
+530   	Binomial Showdown   
 10696   f91   
-111   History Grading   
-894   Juggling Trams   
-964   Custom Language   
-973   The Guessing Game   
+111   	History Grading   
+894   	Juggling Trams   
+964   	Custom Language   
+973   	The Guessing Game   
 10778   Mathemagicland   
-10340   All in All   8
+10340   All in All   
 10783   Odd Sum   
-476   Points in Figures: Rectangles   
-344   Roman Digititis   
-673   Parentheses Balance   
+476   	Points in Figures: Rectangles  
+
+344   	Roman Digititis   
+673   	Parentheses Balance   
 10346   Peter's Smoke   
-120   Stacks of Flapjacks   
+120   	Stacks of Flapjacks   
 10469   To Carry or not to Carry   
 10127   Ones   
-492   Pig-Latin   
-438   The Circumference of the Circle 
-
+492   	Pig-Latin   
+438   	The Circumference of the Circle 
 10327   Flip Sort  
-401   Palindromes  
+401   	Palindromes  
+
 10050   Hartals  
-103   Stacking Boxes
-324   Factorial Frequencies
-146   ID Codes
-463   Polynomial Factorization
-917   Euro 2004
-919   Cutting Polyominoes
-958   A Homer's Holiday
-984   Finding Haplotypes
+103   	Stacking Boxes
+324   	Factorial Frequencies
+146   	ID Codes
+463   	Polynomial Factorization
+917   	Euro 2004
+919   	Cutting Polyominoes
+958   	A Homer's Holiday
+984   	Finding Haplotypes
 10383   Queen vs Rook 
 10955   Playfair Cipher
