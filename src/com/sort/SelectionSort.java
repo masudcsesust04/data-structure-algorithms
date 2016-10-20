@@ -7,7 +7,7 @@ package com.sort;
 
 /**
  *
- * @author rana
+ * @author masud
  */
 public class SelectionSort {
     

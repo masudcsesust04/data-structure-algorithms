@@ -8,7 +8,7 @@ package com.uva;
 import java.util.Scanner;
 
 /**
- * @problem 10018
+ * @problem #10018
  * @author masud
  */
 public class ReverseAndAdd {

@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author rana
+ * @author masud
  */
 public class SievePrime {
     

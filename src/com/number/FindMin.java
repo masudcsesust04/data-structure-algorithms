@@ -7,7 +7,7 @@ package com.number;
 
 /**
  *
- * @author rana
+ * @author masud
  */
 public class FindMin {
     
